@@ -107,6 +107,7 @@ Mons, 22-23 janvier 2009.
 
 ### Comité de lecture
 
+2017 - **Journal of Systems and Software**
 2016 - **Journal of Systems and Software**
 2016 - **European Conference on Software Architecture Workshops**
 2016 - **Natural Sciences and Engineering Research Council of Canada**
