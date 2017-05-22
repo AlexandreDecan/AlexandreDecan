@@ -107,10 +107,9 @@ Mons, 22-23 janvier 2009.
 
 ### Comité de lecture
 
-2017 - **Journal of Systems and Software**
-2016 - **Journal of Systems and Software**
-2016 - **European Conference on Software Architecture Workshops**
-2016 - **Natural Sciences and Engineering Research Council of Canada**
-2015 - **Journal of Systems and Software.**
-2015 - **The VLDB Journal.**
-2011 - **Information Processing Letters.**
+**Journal of Systems and Software** (2015, 2016, 2017)
+**The VLDB Journal** (2015)
+**Information Processing Letters** (2011)
+**Natural Sciences and Engineering Research Council of Canada** (2016)
+**Int. Journal of Business Intelligence and Data Mining** (2017)
+**European Conference on Software Architecture Workshops** (2016)
