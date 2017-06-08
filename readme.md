@@ -85,15 +85,15 @@ in International Workshop on Logic in Databases (LID), 2008
 
 ### Chapitre de livre
 
-2016 - **Inter-component Dependency Issues in Software Ecosystems.**
+2017 - **Inter-component Dependency Issues in Software Ecosystems.**
 Maëlick Claes, Alexandre Decan, Tom Mens 
-in Software Technology : 10 Years of Innovation in IEEE Computer, John Wiley & Sons/IEEE Press, New York, NY, 2016
-[Voir le PDF](files/Chapter-ECOS-2016.pdf)
+in Software Technology : 10 Years of Innovation in IEEE Computer, John Wiley & Sons/IEEE Press, New York, NY, 2017
+[Voir le PDF](files/Chapter-ECOS-2017.pdf)
 
-2016 - **Analysing the Evolution of Database Usage in Data-Intensive Software Systems.**
+2017 - **Analysing the Evolution of Database Usage in Data-Intensive Software Systems.**
 Loup Meurice, Mathieu Goeminne, Tom Mens, Csaba Nagy, Alexandre Decan, Anthony Cleve 
-in Software Technology : 10 Years of Innovation in IEEE Computer, John Wiley & Sons/IEEE Press, New York, NY, 2016
-[Voir le PDF](files/Chapter-ORM-2016.pdf)
+in Software Technology : 10 Years of Innovation in IEEE Computer, John Wiley & Sons/IEEE Press, New York, NY, 2017
+[Voir le PDF](files/Chapter-ORM-2017.pdf)
 
 
 ### Organisation de conférence
