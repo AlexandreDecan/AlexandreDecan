@@ -4,9 +4,9 @@
 
 ## Data scientist & docteur en sciences
 
-Licencié en informatique et docteur en sciences, je suis passionné par l'IT depuis plus de 15 ans. Après plusieurs années en tant que chercheur dans les systèmes d'information, et après davantage d'années à pratiquer activement le développement et la veille technologique en tant que loisirs, je suis actuellement chercheur en sciences informatiques à l'université de Mons, en Belgique.
+Licencié en informatique et docteur en sciences, je suis passionné par l'IT depuis plus de 20 ans. Après plusieurs années en tant que chercheur dans les systèmes d'information, et après davantage d'années à pratiquer activement le développement et la veille technologique en tant que loisirs, je suis actuellement chercheur en sciences informatiques à l'université de Mons, en Belgique.
 
-Mon domaine de prédilection concerne tout ce qui touche aux données de près ou de loin, allant des bases de données relationnelles au big data, en passant par le data mining et le machine learning.
+Mon domaine de prédilection concerne tout ce qui touche aux données de près ou de loin, allant des bases de données relationnelles au big data, en passant par les statistiques, le data mining et le machine learning.
 
 Liens :
  - Me contacter par [email](mailto:alexandre.decan@lexpage.net).
