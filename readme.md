@@ -13,6 +13,7 @@ Liens :
  - Télécharger mon [curriculum vitae](files/cv.pdf).
  - Mes projets sur [GitHub](https://github.com/AlexandreDecan/).
 
+
 ## Publications
 
 ### Thèse de doctorat
@@ -35,12 +36,30 @@ in RAIRO : Theoretical Informatics and Applications, 46, 1, 33-50, 2012
 [Voir le PDF](files/RAIRO-2012.pdf)
 
 
+### Chapitre de livre
+
+2017 - **Inter-component Dependency Issues in Software Ecosystems.**
+Maëlick Claes, Alexandre Decan, Tom Mens 
+in Software Technology : 10 Years of Innovation in IEEE Computer, John Wiley & Sons/IEEE Press, New York, NY, 2017
+[Voir le PDF](files/Chapter-ECOS-2017.pdf)
+
+2017 - **Analysing the Evolution of Database Usage in Data-Intensive Software Systems.**
+Loup Meurice, Mathieu Goeminne, Tom Mens, Csaba Nagy, Alexandre Decan, Anthony Cleve 
+in Software Technology : 10 Years of Innovation in IEEE Computer, John Wiley & Sons/IEEE Press, New York, NY, 2017
+[Voir le PDF](files/Chapter-ORM-2017.pdf)
+
+
 ### Article dans les actes avec comité de lecture
 
 2017 - **An Empirical Comparison of Dependency Issues in OSS Packaging Ecosystems.**
 Alexandre Decan, Tom Mens, Maëlick Claes
 in 24th IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER), Klagenfurt, Austria, 2017
 [Voir le PDF](files/SANER-2017.pdf)
+
+2017 - **On the Interaction of Relational Database Access Technologies in Open Source Java Projects.**
+Alexandre Decan, Mathieu Goeminne, Tom Mens
+in Seminar Series on Advanced Techniques & Tools for Software Evolution (SATToSE), 1820, 26-35, Mons, Belgique, 2017
+[Voir le PDF](files/SATTOSE-2017.pdf)
 
 2016 - **On the Topology of Package Dependency Networks: a comparison of three programming language ecosystems.**
 Alexandre Decan, Tom Mens, Maëlick Claes
@@ -51,11 +70,6 @@ in ECSAW'16: Proceedings of the 10th European Conference on Software Architectur
 Alexandre Decan, Tom Mens, Maëlick Claes, Philippe Grosjean
 in 23rd IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER), Osaka, Japan, 2016
 [Voir le PDF](files/SANER-2016.pdf)
-
-2015 - **On the Interaction of Relational Database Access Technologies in Open Source Java Projects.**
-Alexandre Decan, Mathieu Goeminne, Tom Mens
-in Seminar Series on Advanced Techniques & Tools for Software Evolution (SATToSE), Mons, Belgique, 2015
-[Voir le PDF](files/SATTOSE-2015.pdf)
 
 2015 - **On the Development and Distribution of R Packages.**
 Alexandre Decan, Tom Mens, Maëlick Claes, Philippe Grosjean
@@ -83,19 +97,6 @@ in International Workshop on Logic in Databases (LID), 2008
 [Voir le PDF](files/LID-2008.pdf)
 
 
-### Chapitre de livre
-
-2017 - **Inter-component Dependency Issues in Software Ecosystems.**
-Maëlick Claes, Alexandre Decan, Tom Mens 
-in Software Technology : 10 Years of Innovation in IEEE Computer, John Wiley & Sons/IEEE Press, New York, NY, 2017
-[Voir le PDF](files/Chapter-ECOS-2017.pdf)
-
-2017 - **Analysing the Evolution of Database Usage in Data-Intensive Software Systems.**
-Loup Meurice, Mathieu Goeminne, Tom Mens, Csaba Nagy, Alexandre Decan, Anthony Cleve 
-in Software Technology : 10 Years of Innovation in IEEE Computer, John Wiley & Sons/IEEE Press, New York, NY, 2017
-[Voir le PDF](files/Chapter-ORM-2017.pdf)
-
-
 ### Organisation de conférence
 
 2009 - **EuroDocInfo 2009**
@@ -108,8 +109,9 @@ Mons, 22-23 janvier 2009.
 ### Comité de lecture
 
 **Journal of Systems and Software** (2015, 2016, 2017)
+**International Journal of Business Intelligence and Data Mining** (2017)
+**BElgian-NEtherlands software eVOLution symposium** (2017)
+**Natural Sciences and Engineering Research Council of Canada** (2016)
+**European Conference on Software Architecture Workshops** (2016)
 **The VLDB Journal** (2015)
 **Information Processing Letters** (2011)
-**Natural Sciences and Engineering Research Council of Canada** (2016)
-**Int. Journal of Business Intelligence and Data Mining** (2017)
-**European Conference on Software Architecture Workshops** (2016)
