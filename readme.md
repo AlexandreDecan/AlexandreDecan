@@ -25,14 +25,19 @@ Thèse de doctorat soutenue le 2 juillet 2013
 
 ### Journal avec peer-review
 
+2018 - **An empirical comparison of dependency network evolution in seven software packaging ecosystems.**
+Alexandre Decan, Tom Mens, Philippe Grosjean
+in Empirical Software Engineering, 23, 10.1007/s10664-017-9589-y, 2018
+[Voir le PDF](files/EMSE-2018.pdf)
+
 2012 - **Certain Conjunctive Query Answering in SQL.**
 Alexandre Decan, Fabian Pijcke, Jef Wijsen
-in Lecture Notes in Computer Science, 7520, 154-167, 2012
+in Lecture Notes in Computer Science, 7520, p154-167, 2012
 [Voir le PDF](files/SUM-2012.pdf)
 
 2012 - **An Aperiodicity Problem for Multiwords.**
 Véronique Bruyère, Olivier Carton, Alexandre Decan, Olivier Gauwin, Jef Wijsen
-in RAIRO : Theoretical Informatics and Applications, 46, 1, 33-50, 2012
+in RAIRO : Theoretical Informatics and Applications, 46, 1, p33-50, 2012
 [Voir le PDF](files/RAIRO-2012.pdf)
 
 
@@ -51,7 +56,7 @@ in Software Technology : 10 Years of Innovation in IEEE Computer, John Wiley & S
 
 ### Article dans les actes avec comité de lecture
 
-2017 - **An Empirical Comparison of Dependency Issues in OSS Packaging Ecosystems.**
+2017 - **An Empirical Comparison of Dependency Network Evolution in Seven Software Packaging Ecosystems.**
 Alexandre Decan, Tom Mens, Maëlick Claes
 in 24th IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER), Klagenfurt, Austria, 2017
 [Voir le PDF](files/SANER-2017.pdf)
@@ -71,7 +76,7 @@ Alexandre Decan, Tom Mens, Maëlick Claes, Philippe Grosjean
 in 23rd IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER), Osaka, Japan, 2016
 [Voir le PDF](files/SANER-2016.pdf)
 
-2015 - **On the Development and Distribution of R Packages.**
+2015 - **On the Development and Distribution of R Packages: An Empirical Analysis of the R Ecosystem.**
 Alexandre Decan, Tom Mens, Maëlick Claes, Philippe Grosjean
 in International Workshop on Software Ecosystems (IWSECO), 2015
 [Voir le PDF](files/IWSECO-2015.pdf)
