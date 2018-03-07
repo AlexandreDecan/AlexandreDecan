@@ -56,7 +56,7 @@ in Software Technology : 10 Years of Innovation in IEEE Computer, John Wiley & S
 
 ### Article dans les actes avec comité de lecture
 
-2017 - **An Empirical Comparison of Dependency Network Evolution in Seven Software Packaging Ecosystems.**
+2017 - **An Empirical Comparison of Dependency Issues in OSS Packaging Ecosystems.**
 Alexandre Decan, Tom Mens, Maëlick Claes
 in 24th IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER), Klagenfurt, Austria, 2017
 [Voir le PDF](files/SANER-2017.pdf)
