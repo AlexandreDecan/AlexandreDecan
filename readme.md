@@ -56,6 +56,10 @@ in Software Technology : 10 Years of Innovation in IEEE Computer, John Wiley & S
 
 ### Article dans les actes avec comité de lecture
 
+2018 - **On the impact of security vulnerabilities in the npm package dependency network.**
+Alexandre Decan, Tom Mens, Eleni Constantinou
+accepted for publication in Mining Software Repositories (MSR), Sweden, 2018
+
 2017 - **An Empirical Comparison of Dependency Issues in OSS Packaging Ecosystems.**
 Alexandre Decan, Tom Mens, Maëlick Claes
 in 24th IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER), Klagenfurt, Austria, 2017
@@ -100,23 +104,3 @@ in 16th International Symposium on Temporal Representation and Reasoning, TIME 2
 Alexandre Decan, Jef Wijsen
 in International Workshop on Logic in Databases (LID), 2008
 [Voir le PDF](files/LID-2008.pdf)
-
-
-### Organisation de conférence
-
-2009 - **EuroDocInfo 2009**
-Mons, 22-23 janvier 2009.
-
-2009 - **Bases de Données Avancées (BDA) 2009**
-25èmes journées de Bases de Données Avancées, Namur, 20-23 octobre 2009.
-
-
-### Comité de lecture
-
-**Journal of Systems and Software** (2015, 2016, 2017)
-**International Journal of Business Intelligence and Data Mining** (2017)
-**BElgian-NEtherlands software eVOLution symposium** (2017)
-**Natural Sciences and Engineering Research Council of Canada** (2016)
-**European Conference on Software Architecture Workshops** (2016)
-**The VLDB Journal** (2015)
-**Information Processing Letters** (2011)
