@@ -58,8 +58,9 @@ in Software Technology : 10 Years of Innovation in IEEE Computer, John Wiley & S
 
 2018 - **On the impact of security vulnerabilities in the npm package dependency network.**
 Alexandre Decan, Tom Mens, Eleni Constantinou
-accepted for publication in MSR'18, 15th International Conference on Mining Software Repositories, Sweden, 2018
-
+15th International Conference on Mining Software Repositories (MSR), Gothenburg, Sweden, 2018
+[Voir le PDF](files/MSR-2018.pdf)
+    
 2017 - **An Empirical Comparison of Dependency Issues in OSS Packaging Ecosystems.**
 Alexandre Decan, Tom Mens, Maëlick Claes
 in 24th IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER), Klagenfurt, Austria, 2017
