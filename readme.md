@@ -25,6 +25,11 @@ Thèse de doctorat soutenue le 2 juillet 2013
 
 ### Journal avec peer-review
 
+2018 - **A method for testing and validating executable statechart models.**
+Tom Mens, Alexandre Decan, Nikolaos Spanoudakis
+in Software and Systems Modeling, 10.1007/s10270-018-0676-3, 2018
+[Voir le pdf](files/SOSYM-2018.pdf)
+
 2018 - **An empirical comparison of dependency network evolution in seven software packaging ecosystems.**
 Alexandre Decan, Tom Mens, Philippe Grosjean
 in Empirical Software Engineering, 23, 10.1007/s10664-017-9589-y, 2018
