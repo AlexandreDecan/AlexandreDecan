@@ -49,23 +49,27 @@ in RAIRO : Theoretical Informatics and Applications, 46, 1, p33-50, 2012
 ### Chapitre de livre
 
 2017 - **Inter-component Dependency Issues in Software Ecosystems.**
-Maëlick Claes, Alexandre Decan, Tom Mens 
+Maëlick Claes, Alexandre Decan, Tom Mens
 in Software Technology : 10 Years of Innovation in IEEE Computer, John Wiley & Sons/IEEE Press, New York, NY, 2017
 [Voir le PDF](files/Chapter-ECOS-2017.pdf)
 
 2017 - **Analysing the Evolution of Database Usage in Data-Intensive Software Systems.**
-Loup Meurice, Mathieu Goeminne, Tom Mens, Csaba Nagy, Alexandre Decan, Anthony Cleve 
+Loup Meurice, Mathieu Goeminne, Tom Mens, Csaba Nagy, Alexandre Decan, Anthony Cleve
 in Software Technology : 10 Years of Innovation in IEEE Computer, John Wiley & Sons/IEEE Press, New York, NY, 2017
 [Voir le PDF](files/Chapter-ORM-2017.pdf)
 
 
 ### Article dans les actes avec comité de lecture
 
+2018 - **On the evolution of technical lag in the npm package dependency network.**
+Alexandre Decan, Tom Mens, Eleni Constantinnou
+34th IEEE International Conference on Software Maintenance and Evolution (ICSME), Madrid, Spain, 2018
+
 2018 - **On the impact of security vulnerabilities in the npm package dependency network.**
 Alexandre Decan, Tom Mens, Eleni Constantinou
 15th International Conference on Mining Software Repositories (MSR), Gothenburg, Sweden, 2018
 [Voir le PDF](files/MSR-2018.pdf)
-    
+
 2017 - **An Empirical Comparison of Dependency Issues in OSS Packaging Ecosystems.**
 Alexandre Decan, Tom Mens, Maëlick Claes
 in 24th IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER), Klagenfurt, Austria, 2017
