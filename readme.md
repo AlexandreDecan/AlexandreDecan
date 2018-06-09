@@ -1,6 +1,6 @@
 # Alexandre Decan
 
-![photo](https://fr.gravatar.com/userimage/61623575/21378d2fc0870be68aea4a85783adbfe?size=120)
+![photo](https://fr.gravatar.com/userimage/61623575/5eb3b9c806a02eb4935b94130c07aff3.jpg?size=120)
 
 ## Data scientist & docteur en sciences
 
