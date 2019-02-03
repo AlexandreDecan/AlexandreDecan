@@ -25,12 +25,12 @@ Thèse de doctorat soutenue le 2 juillet 2013
 
 ### Journal avec peer-review
 
-2018 - **A method for testing and validating executable statechart models.**
+2018 - **A Method for Festing and Validating Executable Statechart Models.**
 Tom Mens, Alexandre Decan, Nikolaos Spanoudakis
 in Software and Systems Modeling, 10.1007/s10270-018-0676-3, 2018
 [Voir le pdf](files/SOSYM-2018.pdf)
 
-2018 - **An empirical comparison of dependency network evolution in seven software packaging ecosystems.**
+2018 - **An Empirical Comparison of Dependency Network Evolution in Seven Software Packaging Ecosystems.**
 Alexandre Decan, Tom Mens, Philippe Grosjean
 in Empirical Software Engineering, 23, 10.1007/s10664-017-9589-y, 2018
 [Voir le PDF](files/EMSE-2018.pdf)
@@ -61,12 +61,12 @@ in Software Technology : 10 Years of Innovation in IEEE Computer, John Wiley & S
 
 ### Article dans les actes avec comité de lecture
 
-2018 - **On the evolution of technical lag in the npm package dependency network.**
+2018 - **On the Evolution of Technical Lag in the npm Package Dependency Network.**
 Alexandre Decan, Tom Mens, Eleni Constantinnou
 34th IEEE International Conference on Software Maintenance and Evolution (ICSME), Madrid, Spain, 2018
 [Voir le PDF](files/ICSME-2018.pdf)
 
-2018 - **On the impact of security vulnerabilities in the npm package dependency network.**
+2018 - **On the Impact of Security Vulnerabilities in the npm Package Dependency Network.**
 Alexandre Decan, Tom Mens, Eleni Constantinou
 15th International Conference on Mining Software Repositories (MSR), Gothenburg, Sweden, 2018
 [Voir le PDF](files/MSR-2018.pdf)
