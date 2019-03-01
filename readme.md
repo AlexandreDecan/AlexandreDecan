@@ -25,6 +25,11 @@ Thèse de doctorat soutenue le 2 juillet 2013
 
 ### Journal avec peer-review
 
+2019 - **A Formal Framework for Measuring Technical Lag in Component Repositories - and its application to npm.**
+Ahmed Zerouali, Tom Mens, Jesus Gonzalez-Barahona, Alexandre Decan, Eleni Constantinou, Gregorio robles
+in Journal of Software: Evolution and Process, 10.1002/smr.2157, 2019
+[Voir le pdf](files/jsep-2019.pdf)
+
 2018 - **A Method for Festing and Validating Executable Statechart Models.**
 Tom Mens, Alexandre Decan, Nikolaos Spanoudakis
 in Software and Systems Modeling, 10.1007/s10270-018-0676-3, 2018
