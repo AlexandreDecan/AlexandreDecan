@@ -27,7 +27,7 @@ Thèse de doctorat soutenue le 2 juillet 2013
 
 2019 - **What Do Package Dependencies Tell Us about Semantic Versioning?**
 Alexandre Decan, Tom Mens
-in Transactions on Software Engineering, IEEE [in press]
+in IEEE Transactions on Software Engineering, 10.1109/TSE.2019.2918315
 [Voir le pdf](files/TSE-2019.pdf)
 
 2019 - **A Formal Framework for Measuring Technical Lag in Component Repositories - and its application to npm.**
