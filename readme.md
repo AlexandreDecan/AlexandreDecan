@@ -4,7 +4,7 @@
 
 ## Data scientist & docteur en sciences
 
-Licencié en informatique et docteur en sciences, je suis passionné par l'IT depuis plus de 20 ans. Après plusieurs années en tant que chercheur dans les systèmes d'information, et après davantage d'années à pratiquer activement le développement et la veille technologique en tant que loisirs, je suis actuellement chercheur en sciences informatiques à l'université de Mons, en Belgique.
+Licencié en informatique et docteur en sciences, je suis passionné par l'IT depuis plus de 25 ans. Après plusieurs années en tant que chercheur dans les systèmes d'information, et après davantage d'années à pratiquer activement le développement et la veille technologique en tant que loisirs, je suis actuellement chercheur en sciences informatiques à l'université de Mons, en Belgique.
 
 Mon domaine de prédilection concerne tout ce qui touche aux données de près ou de loin, allant des bases de données relationnelles au big data, en passant par les statistiques, le data mining et le machine learning.
 
@@ -16,11 +16,6 @@ Liens :
 
 ## Publications
 
-### Thèse de doctorat
-
-2013 - **Certain Query Answering in First-Order Languages.**
-Thèse de doctorat soutenue le 2 juillet 2013
-[Voir le PDF](files/Thesis-2013.pdf)
 
 
 ### Journal avec peer-review
@@ -31,7 +26,7 @@ in IEEE Transactions on Software Engineering, 10.1109/TSE.2019.2918315
 [Voir le pdf](files/TSE-2019.pdf)
 
 2019 - **A Formal Framework for Measuring Technical Lag in Component Repositories - and its application to npm.**
-Ahmed Zerouali, Tom Mens, Jesus Gonzalez-Barahona, Alexandre Decan, Eleni Constantinou, Gregorio robles
+Ahmed Zerouali, Tom Mens, Jesus Gonzalez-Barahona, Alexandre Decan, Eleni Constantinou, Gregorio Robles
 in Journal of Software: Evolution and Process, 10.1002/smr.2157, 2019
 [Voir le pdf](files/jsep-2019.pdf)
 
@@ -55,18 +50,6 @@ Véronique Bruyère, Olivier Carton, Alexandre Decan, Olivier Gauwin, Jef Wijsen
 in RAIRO : Theoretical Informatics and Applications, 46, 1, p33-50, 2012
 [Voir le PDF](files/RAIRO-2012.pdf)
 
-
-### Chapitre de livre
-
-2017 - **Inter-component Dependency Issues in Software Ecosystems.**
-Maëlick Claes, Alexandre Decan, Tom Mens
-in Software Technology : 10 Years of Innovation in IEEE Computer, John Wiley & Sons/IEEE Press, New York, NY, 2017
-[Voir le PDF](files/Chapter-ECOS-2017.pdf)
-
-2017 - **Analysing the Evolution of Database Usage in Data-Intensive Software Systems.**
-Loup Meurice, Mathieu Goeminne, Tom Mens, Csaba Nagy, Alexandre Decan, Anthony Cleve
-in Software Technology : 10 Years of Innovation in IEEE Computer, John Wiley & Sons/IEEE Press, New York, NY, 2017
-[Voir le PDF](files/Chapter-ORM-2017.pdf)
 
 
 ### Article dans les actes avec comité de lecture
@@ -125,3 +108,23 @@ in 16th International Symposium on Temporal Representation and Reasoning, TIME 2
 Alexandre Decan, Jef Wijsen
 in International Workshop on Logic in Databases (LID), 2008
 [Voir le PDF](files/LID-2008.pdf)
+
+
+### Chapitre de livre
+
+2017 - **Inter-component Dependency Issues in Software Ecosystems.**
+Maëlick Claes, Alexandre Decan, Tom Mens
+in Software Technology : 10 Years of Innovation in IEEE Computer, John Wiley & Sons/IEEE Press, New York, NY, 2017
+[Voir le PDF](files/Chapter-ECOS-2017.pdf)
+
+2017 - **Analysing the Evolution of Database Usage in Data-Intensive Software Systems.**
+Loup Meurice, Mathieu Goeminne, Tom Mens, Csaba Nagy, Alexandre Decan, Anthony Cleve
+in Software Technology : 10 Years of Innovation in IEEE Computer, John Wiley & Sons/IEEE Press, New York, NY, 2017
+[Voir le PDF](files/Chapter-ORM-2017.pdf)
+
+
+### Thèse de doctorat
+
+2013 - **Certain Query Answering in First-Order Languages.**
+Thèse de doctorat soutenue le 2 juillet 2013
+[Voir le PDF](files/Thesis-2013.pdf)
