@@ -56,22 +56,22 @@ in RAIRO : Theoretical Informatics and Applications, 46, 1, p33-50, 2012
 
 2018 - **On the Evolution of Technical Lag in the npm Package Dependency Network.**
 Alexandre Decan, Tom Mens, Eleni Constantinnou
-34th IEEE International Conference on Software Maintenance and Evolution (ICSME), Madrid, Spain, 2018
+in 34th IEEE International Conference on Software Maintenance and Evolution (ICSME), Madrid, Spain, 2018
 [Voir le PDF](files/ICSME-2018.pdf)
 
 2018 - **On the Impact of Security Vulnerabilities in the npm Package Dependency Network.**
 Alexandre Decan, Tom Mens, Eleni Constantinou
-15th International Conference on Mining Software Repositories (MSR), Gothenburg, Sweden, 2018
+in 15th International Conference on Mining Software Repositories (MSR), Gothenburg, Sweden, 2018
 [Voir le PDF](files/MSR-2018.pdf)
 
 2018 - **Breaking the Borders: An Investigation of Cross-Ecosystem Software Packages.**
 Eleni Constantinou and Alexandre Decan and Tom Mens
-17th Belgium-Netherlands Software Evolution Workshop (BENEVOL), Delft, the Netherlands, 2018
+in 17th Belgium-Netherlands Software Evolution Workshop (BENEVOL), Delft, the Netherlands, 2018
 [Voir le PDF](files/BENEVOL-2018a.pdf)
 
 2018 - **On the Impact of Pull Request Decisions on Future Contributions.**
 Damien Legay and Alexandre Decan and Tom Mens
-17th Belgium-Netherlands Software Evolution Workshop (BENEVOL), Delft, the Netherlands, 2018
+in 17th Belgium-Netherlands Software Evolution Workshop (BENEVOL), Delft, the Netherlands, 2018
 [Voir le PDF](files/BENEVOL-2018b.pdf)
 
 2017 - **An Empirical Comparison of Dependency Issues in OSS Packaging Ecosystems.**
