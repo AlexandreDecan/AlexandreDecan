@@ -64,6 +64,16 @@ Alexandre Decan, Tom Mens, Eleni Constantinou
 15th International Conference on Mining Software Repositories (MSR), Gothenburg, Sweden, 2018
 [Voir le PDF](files/MSR-2018.pdf)
 
+2018 - **Breaking the Borders: An Investigation of Cross-Ecosystem Software Packages.**
+Eleni Constantinou and Alexandre Decan and Tom Mens
+17th Belgium-Netherlands Software Evolution Workshop (BENEVOL), Delft, the Netherlands, 2018
+[Voir le PDF](files/BENEVOL-2018a.pdf)
+
+2018 - **On the Impact of Pull Request Decisions on Future Contributions.**
+Damien Legay and Alexandre Decan and Tom Mens
+17th Belgium-Netherlands Software Evolution Workshop (BENEVOL), Delft, the Netherlands, 2018
+[Voir le PDF](files/BENEVOL-2018b.pdf)
+
 2017 - **An Empirical Comparison of Dependency Issues in OSS Packaging Ecosystems.**
 Alexandre Decan, Tom Mens, Maëlick Claes
 in 24th IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER), Klagenfurt, Austria, 2017
