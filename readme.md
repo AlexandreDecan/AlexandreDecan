@@ -20,9 +20,14 @@ Liens :
 
 ### Journal avec peer-review
 
+2020 - **GAP: Forecasting Commit Activity in git Projects.**
+Alexandre Decan, Eleni Constantinou, Tom Mens, Henrique Rocha
+in Journal of Systems and Software, 10.1016/j.jss.2020.110573, 2020
+[Voir le pdf](files/JSS-2020.pdf)
+
 2019 - **What Do Package Dependencies Tell Us about Semantic Versioning?**
 Alexandre Decan, Tom Mens
-in IEEE Transactions on Software Engineering, 10.1109/TSE.2019.2918315
+in IEEE Transactions on Software Engineering, 10.1109/TSE.2019.2918315, 2019
 [Voir le pdf](files/TSE-2019.pdf)
 
 2019 - **A Formal Framework for Measuring Technical Lag in Component Repositories - and its application to npm.**
