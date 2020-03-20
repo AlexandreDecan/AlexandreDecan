@@ -59,6 +59,27 @@ in RAIRO : Theoretical Informatics and Applications, 46, 1, p33-50, 2012
 
 ### Article dans les actes avec comité de lecture
 
+
+2020 - **How Magic is Zero? An Empirical Analysis of Initial Development Releases in Three Software Package Distributions.**
+Alexandre Decan, Tom Mens
+3rd International Workshop on Software Health (SoHeal), Seoul, South Korea, 2020
+[Voir le PDF](files/SOHEAL-2020.pdf)
+
+2020 - **Bot or not? Detecting bots in GitHub pull request activity based on comment similarity.**
+Mehdi Golzadeh, Damien Legay, Alexandre Decan, Tom Mens
+2nd International workshop on Bots in Software Engineering (BotSE), Seoul, South Korea, 2020
+[Voir le PDF](files/BOTSE-2020.pdf)
+
+2019 - **Towards an Understanding of the Impact of Badges in GitHub Repositories.**
+Damien Legay, Alexandre Decan, Tom Mens
+18th Belgium-Netherlands Software Evolution Workshop (BENEVOL), Brussels, Belgium, 2019
+[Voir le PDF](files/BENEVOL-2019b.pdf)
+
+2019 - **On the Effect of Discussions on Pull Request Decisions.**
+Mehdi Golzadeh, Alexandre Decan, Tom Mens
+18th Belgium-Netherlands Software Evolution Workshop (BENEVOL), Brussels, Belgium, 2019
+[Voir le PDF](files/BENEVOL-2019a.pdf)
+
 2018 - **On the Evolution of Technical Lag in the npm Package Dependency Network.**
 Alexandre Decan, Tom Mens, Eleni Constantinnou
 in 34th IEEE International Conference on Software Maintenance and Evolution (ICSME), Madrid, Spain, 2018
