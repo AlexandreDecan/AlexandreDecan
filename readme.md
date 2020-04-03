@@ -62,12 +62,12 @@ in RAIRO : Theoretical Informatics and Applications, 46, 1, p33-50, 2012
 
 2020 - **How Magic is Zero? An Empirical Analysis of Initial Development Releases in Three Software Package Distributions.**
 Alexandre Decan, Tom Mens
-3rd International Workshop on Software Health (SoHeal), Seoul, South Korea, 2020
+SoHeal20: ICSE Workshop on Software Health, Seoul, Republic of Korea, 2020
 [Voir le PDF](files/SOHEAL-2020.pdf)
 
 2020 - **Bot or not? Detecting bots in GitHub pull request activity based on comment similarity.**
 Mehdi Golzadeh, Damien Legay, Alexandre Decan, Tom Mens
-2nd International workshop on Bots in Software Engineering (BotSE), Seoul, South Korea, 2020
+BotSE20: ICSE Workshop on Bots in Software Engineering, Seoul, Republic of Korea, 2020
 [Voir le PDF](files/BOTSE-2020.pdf)
 
 2019 - **Towards an Understanding of the Impact of Badges in GitHub Repositories.**
