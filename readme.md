@@ -59,6 +59,10 @@ in RAIRO : Theoretical Informatics and Applications, 46, 1, p33-50, 2012
 
 ### Article dans les actes avec comité de lecture
 
+2020 - **On Package Freshness in Linux Distributions.**
+Damien Legay, Alexandre Decan, Tom Mens
+in 36th IEEE International Conference on Software Maintenance and Evolution (ICSME), Adelaide, Australia, 2020
+[Voir le PDF](files/ICSME-2020.pdf)
 
 2020 - **How Magic is Zero? An Empirical Analysis of Initial Development Releases in Three Software Package Distributions.**
 Alexandre Decan, Tom Mens
