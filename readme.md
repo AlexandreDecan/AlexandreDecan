@@ -35,7 +35,7 @@ Ahmed Zerouali, Tom Mens, Jesus Gonzalez-Barahona, Alexandre Decan, Eleni Consta
 in Journal of Software: Evolution and Process, 10.1002/smr.2157, 2019
 [Voir le pdf](files/jsep-2019.pdf)
 
-2018 - **A Method for Festing and Validating Executable Statechart Models.**
+2018 - **A Method for Testing and Validating Executable Statechart Models.**
 Tom Mens, Alexandre Decan, Nikolaos Spanoudakis
 in Software and Systems Modeling, 10.1007/s10270-018-0676-3, 2018
 [Voir le pdf](files/SOSYM-2018.pdf)
@@ -66,12 +66,12 @@ in 36th IEEE International Conference on Software Maintenance and Evolution (ICS
 
 2020 - **How Magic is Zero? An Empirical Analysis of Initial Development Releases in Three Software Package Distributions.**
 Alexandre Decan, Tom Mens
-SoHeal20: ICSE Workshop on Software Health, Seoul, Republic of Korea, 2020
+3rd International Workshop on Software Health (SoHeal20), IEEE/ACM ICSEW 2020, Seoul, Republic of Korea, 2020
 [Voir le PDF](files/SOHEAL-2020.pdf)
 
 2020 - **Bot or not? Detecting bots in GitHub pull request activity based on comment similarity.**
 Mehdi Golzadeh, Damien Legay, Alexandre Decan, Tom Mens
-BotSE20: ICSE Workshop on Bots in Software Engineering, Seoul, Republic of Korea, 2020
+2nd Workshop on Bots in Software Engineering (BotSE), IEEE/ACM ICSEW 2020, Seoul, Republic of Korea, 2020
 [Voir le PDF](files/BOTSE-2020.pdf)
 
 2019 - **Towards an Understanding of the Impact of Badges in GitHub Repositories.**
@@ -95,12 +95,12 @@ in 15th International Conference on Mining Software Repositories (MSR), Gothenbu
 [Voir le PDF](files/MSR-2018.pdf)
 
 2018 - **Breaking the Borders: An Investigation of Cross-Ecosystem Software Packages.**
-Eleni Constantinou and Alexandre Decan and Tom Mens
+Eleni Constantinou, Alexandre Decan, Tom Mens
 in 17th Belgium-Netherlands Software Evolution Workshop (BENEVOL), Delft, the Netherlands, 2018
 [Voir le PDF](files/BENEVOL-2018a.pdf)
 
 2018 - **On the Impact of Pull Request Decisions on Future Contributions.**
-Damien Legay and Alexandre Decan and Tom Mens
+Damien Legay, Alexandre Decan, Tom Mens
 in 17th Belgium-Netherlands Software Evolution Workshop (BENEVOL), Delft, the Netherlands, 2018
 [Voir le PDF](files/BENEVOL-2018b.pdf)
 
