@@ -20,6 +20,12 @@ Liens :
 
 ### Journal avec peer-review
 
+
+2020 - **Sismic - A Python library for statechart execution and testing.**
+Alexandre Decan, Tom Mens
+in SoftwareX, 10.1016/j.softx.2020.100590, 2020
+[Voir le pdf](files/SOFTX-2020.pdf)
+
 2020 - **GAP: Forecasting Commit Activity in git Projects.**
 Alexandre Decan, Eleni Constantinou, Tom Mens, Henrique Rocha
 in Journal of Systems and Software, 10.1016/j.jss.2020.110573, 2020
