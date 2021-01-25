@@ -20,6 +20,15 @@ Liens :
 
 ### Journal avec peer-review
 
+2021 - **A ground-truth dataset and classification model for detecting bots in GitHub issue and PR comments**
+Mehdi Golzadeh, Alexandre Decan, Damien Legay, Tom Mens
+Journal of Systems and Software (in press)
+[Voir le pdf](files/JSS-2021.pdf)
+
+2021 - **A multi-dimensional analysis of technical lag in Debian-based Docker images**
+Ahmed Zerouali, Tom Mens, Alexandre Decan, Jesus Gonzalez-Barahona and Gregorio Robles
+Empirical Software Engineering (in press)
+[Voir le pdf](files/EMSE-2021.pdf)
 
 2020 - **Sismic - A Python library for statechart execution and testing.**
 Alexandre Decan, Tom Mens
