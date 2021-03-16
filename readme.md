@@ -74,15 +74,26 @@ in RAIRO : Theoretical Informatics and Applications, 46, 1, p33-50, 2012
 
 ### Article dans les actes avec comité de lecture
 
-2020 - **On Package Freshness in Linux Distributions.**
+
+2021 - **Identifying bot activity in GitHub pull request and issue comments**
+Mehdi Golzadeh, Alexandre Decan, Eleni Constantinou, Tom Mens
+3rd Workshop on Bots in Software Engineering (BotSE), IEEE/ACM ICSEW 2021
+[Voir le PDF](files/BOTSE-2021.pdf)
+
+2021 - **A Quantitative Assessment of Package Freshness in Linux Distributions**
 Damien Legay, Alexandre Decan, Tom Mens
-in 36th IEEE International Conference on Software Maintenance and Evolution (ICSME), Adelaide, Australia, 2020
-[Voir le PDF](files/ICSME-2020.pdf)
+4th International Workshop on Software Health (SoHeal), IEEE/ACM ICSEW 2021
+[Voir le PDF](files/SOHEAL-2021.pdf)
 
 2020 - **How Magic is Zero? An Empirical Analysis of Initial Development Releases in Three Software Package Distributions.**
 Alexandre Decan, Tom Mens
 3rd International Workshop on Software Health (SoHeal20), IEEE/ACM ICSEW 2020, Seoul, Republic of Korea, 2020
 [Voir le PDF](files/SOHEAL-2020.pdf)
+
+2020 - **On Package Freshness in Linux Distributions.**
+Damien Legay, Alexandre Decan, Tom Mens
+in 36th IEEE International Conference on Software Maintenance and Evolution (ICSME), Adelaide, Australia, 2020
+[Voir le PDF](files/ICSME-2020.pdf)
 
 2020 - **Bot or not? Detecting bots in GitHub pull request activity based on comment similarity.**
 Mehdi Golzadeh, Damien Legay, Alexandre Decan, Tom Mens
