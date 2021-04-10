@@ -74,6 +74,10 @@ in RAIRO : Theoretical Informatics and Applications, 46, 1, p33-50, 2012
 
 ### Article dans les actes avec comité de lecture
 
+2021 - **Lost in Zero Space -- An Empirical Comparison of 0.y.z Releases in Software Package Distributions**
+Alexandre Decan, Tom Mens
+Science of Computer Programming, 10.1016/j.scico.2021.102656, 2021
+[Voir le PDF](files/SCICO-2021.pdf)
 
 2021 - **Identifying bot activity in GitHub pull request and issue comments**
 Mehdi Golzadeh, Alexandre Decan, Eleni Constantinou, Tom Mens
