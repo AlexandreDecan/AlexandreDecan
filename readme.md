@@ -20,20 +20,24 @@ Liens :
 
 ### Journal avec peer-review
 
+2021 - **Back to the Past -- Analysing Backporting Practices in Package Dependency Networks**
+Alexandre Decan, Tom Mens, Ahmed Zerouali, Coen De Roover
+in IEEE Transactions on Software Engineering, in press, 2021
+[Voir le PDF](files/TSE-2021.pdf)
 
 2021 - **Lost in Zero Space -- An Empirical Comparison of 0.y.z Releases in Software Package Distributions**
 Alexandre Decan, Tom Mens
-Science of Computer Programming, 10.1016/j.scico.2021.102656, 2021
+in Science of Computer Programming, 10.1016/j.scico.2021.102656, 2021
 [Voir le PDF](files/SCICO-2021.pdf)
 
 2021 - **A ground-truth dataset and classification model for detecting bots in GitHub issue and PR comments**
 Mehdi Golzadeh, Alexandre Decan, Damien Legay, Tom Mens
-Journal of Systems and Software, 10.1016/j.jss.2021.110911, 2021
+in Journal of Systems and Software, 10.1016/j.jss.2021.110911, 2021
 [Voir le pdf](files/JSS-2021.pdf)
 
 2021 - **A multi-dimensional analysis of technical lag in Debian-based Docker images**
 Ahmed Zerouali, Tom Mens, Alexandre Decan, Jesus Gonzalez-Barahona and Gregorio Robles
-Empirical Software Engineering, 26,10.1007/s10664-020-09908-6, 2021
+in Empirical Software Engineering, 26,10.1007/s10664-020-09908-6, 2021
 [Voir le pdf](files/EMSE-2021.pdf)
 
 2020 - **Sismic - A Python library for statechart execution and testing.**
