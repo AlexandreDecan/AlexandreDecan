@@ -20,12 +20,12 @@ Liens :
 
 ### Journal avec peer-review
 
-2021 - **Back to the Past -- Analysing Backporting Practices in Package Dependency Networks**
+2021 - **Back to the Past - Analysing Backporting Practices in Package Dependency Networks**
 Alexandre Decan, Tom Mens, Ahmed Zerouali, Coen De Roover
 in IEEE Transactions on Software Engineering, 10.1109/TSE.2021.3112204, 2021
 [Voir le PDF](files/TSE-2021.pdf)
 
-2021 - **Lost in Zero Space -- An Empirical Comparison of 0.y.z Releases in Software Package Distributions**
+2021 - **Lost in Zero Space - An Empirical Comparison of 0.y.z Releases in Software Package Distributions**
 Alexandre Decan, Tom Mens
 in Science of Computer Programming, 10.1016/j.scico.2021.102656, 2021
 [Voir le PDF](files/SCICO-2021.pdf)
