@@ -22,7 +22,7 @@ Liens :
 
 2021 - **Back to the Past -- Analysing Backporting Practices in Package Dependency Networks**
 Alexandre Decan, Tom Mens, Ahmed Zerouali, Coen De Roover
-in IEEE Transactions on Software Engineering, in press, 2021
+in IEEE Transactions on Software Engineering, 10.1109/TSE.2021.3112204, 2021
 [Voir le PDF](files/TSE-2021.pdf)
 
 2021 - **Lost in Zero Space -- An Empirical Comparison of 0.y.z Releases in Software Package Distributions**
