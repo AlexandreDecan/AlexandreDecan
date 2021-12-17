@@ -120,7 +120,7 @@ Mehdi Golzadeh, Alexandre Decan, Tom Mens
 [Voir le PDF](files/BENEVOL-2019a.pdf)
 
 2018 - **On the Evolution of Technical Lag in the npm Package Dependency Network.**
-Alexandre Decan, Tom Mens, Eleni Constantinnou
+Alexandre Decan, Tom Mens, Eleni Constantinou
 in 34th IEEE International Conference on Software Maintenance and Evolution (ICSME), Madrid, Spain, 2018
 [Voir le PDF](files/ICSME-2018.pdf)
 
