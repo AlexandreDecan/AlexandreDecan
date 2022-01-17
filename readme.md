@@ -86,27 +86,27 @@ in RAIRO : Theoretical Informatics and Applications, 46, 1, p33-50, 2012
 
 2022 - **On the rise and fall of CI services in GitHub**
 Mehdi Golzadeh, Alexandre Decan, Tom Mens
-29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), Honolulu, Hawai, 2022
+in 29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), Honolulu, Hawai, 2022
 [Voir le PDF](files/SANER-2022a.pdf)
 
 2022 - **Variant Forks - Motivations and Impediments**
 John Businge, Ahmed Zerouali, Alexandre Decan, Tom Mens, Serge Demeyer, Coen De Roover
-29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), Honolulu, Hawai, 2022
+in 29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), Honolulu, Hawai, 2022
 [Voir le PDF](files/SANER-2022b.pdf)
 
 2021 - **Identifying bot activity in GitHub pull request and issue comments**
 Mehdi Golzadeh, Alexandre Decan, Eleni Constantinou, Tom Mens
-3rd Workshop on Bots in Software Engineering (BotSE), IEEE/ACM ICSEW 2021
+in 3rd Workshop on Bots in Software Engineering (BotSE), IEEE/ACM ICSEW 2021
 [Voir le PDF](files/BOTSE-2021.pdf)
 
 2021 - **A Quantitative Assessment of Package Freshness in Linux Distributions**
 Damien Legay, Alexandre Decan, Tom Mens
-4th International Workshop on Software Health (SoHeal), IEEE/ACM ICSEW 2021
+in 4th International Workshop on Software Health (SoHeal), IEEE/ACM ICSEW 2021
 [Voir le PDF](files/SOHEAL-2021.pdf)
 
 2020 - **How Magic is Zero? An Empirical Analysis of Initial Development Releases in Three Software Package Distributions**
 Alexandre Decan, Tom Mens
-3rd International Workshop on Software Health (SoHeal20), IEEE/ACM ICSEW 2020, Seoul, Republic of Korea, 2020
+in 3rd International Workshop on Software Health (SoHeal20), IEEE/ACM ICSEW 2020, Seoul, Republic of Korea, 2020
 [Voir le PDF](files/SOHEAL-2020.pdf)
 
 2020 - **On Package Freshness in Linux Distributions**
@@ -116,17 +116,17 @@ in 36th IEEE International Conference on Software Maintenance and Evolution (ICS
 
 2020 - **Bot or not? Detecting bots in GitHub pull request activity based on comment similarity**
 Mehdi Golzadeh, Damien Legay, Alexandre Decan, Tom Mens
-2nd Workshop on Bots in Software Engineering (BotSE), IEEE/ACM ICSEW 2020, Seoul, Republic of Korea, 2020
+in 2nd Workshop on Bots in Software Engineering (BotSE), IEEE/ACM ICSEW 2020, Seoul, Republic of Korea, 2020
 [Voir le PDF](files/BOTSE-2020.pdf)
 
 2019 - **Towards an Understanding of the Impact of Badges in GitHub Repositories**
 Damien Legay, Alexandre Decan, Tom Mens
-18th Belgium-Netherlands Software Evolution Workshop (BENEVOL), Brussels, Belgium, 2019
+in 18th Belgium-Netherlands Software Evolution Workshop (BENEVOL), Brussels, Belgium, 2019
 [Voir le PDF](files/BENEVOL-2019b.pdf)
 
 2019 - **On the Effect of Discussions on Pull Request Decisions**
 Mehdi Golzadeh, Alexandre Decan, Tom Mens
-18th Belgium-Netherlands Software Evolution Workshop (BENEVOL), Brussels, Belgium, 2019
+in 18th Belgium-Netherlands Software Evolution Workshop (BENEVOL), Brussels, Belgium, 2019
 [Voir le PDF](files/BENEVOL-2019a.pdf)
 
 2018 - **On the Evolution of Technical Lag in the npm Package Dependency Network**
