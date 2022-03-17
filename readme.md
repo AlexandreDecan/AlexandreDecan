@@ -20,6 +20,11 @@ Liens :
 
 ### Journal avec peer-review
 
+2022 - **On the Impact of Security Vulnerabilities in the npm and RubyGems Dependency Networks**
+Ahmed Zerouali, Tom Mens, Alexandre Decan, Coen De Roover
+in Empirical Software Engineering, 2022
+[Voir le PDF](files/EMSE-2022.pdf) (in press)
+
 2021 - **Back to the Past - Analysing Backporting Practices in Package Dependency Networks**
 Alexandre Decan, Tom Mens, Ahmed Zerouali, Coen De Roover
 in IEEE Transactions on Software Engineering, 10.1109/TSE.2021.3112204, 2021
@@ -83,6 +88,16 @@ in RAIRO : Theoretical Informatics and Applications, 46, 1, p33-50, 2012
 
 
 ### Article dans les actes avec comité de lecture
+
+2022 - **On the accuracy of bot detection techniques**
+Mehdi Golzadeh, Alexandre Decan, Natarajan Chidambaram
+in 4th Workshop on Bots in Software Engineering (BotSE), IEEE/ACM ICSEW 2022
+(in press)
+
+2022 - **Leveraging Predictions From Multiple Repositories to Improve Bot Detection**
+Natarajan Chidambaram, Alexandre Decan, Mehdi Golzadeh
+in 4th Workshop on Bots in Software Engineering (BotSE), IEEE/ACM ICSEW 2022
+(in press)
 
 2022 - **On the rise and fall of CI services in GitHub**
 Mehdi Golzadeh, Alexandre Decan, Tom Mens
