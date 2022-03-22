@@ -92,12 +92,12 @@ in RAIRO : Theoretical Informatics and Applications, 46, 1, p33-50, 2012
 2022 - **On the accuracy of bot detection techniques**
 Mehdi Golzadeh, Alexandre Decan, Natarajan Chidambaram
 in 4th Workshop on Bots in Software Engineering (BotSE), IEEE/ACM ICSEW 2022
-(in press)
+[Voir le PDF](files/BOTSE-2022b.pdf)
 
 2022 - **Leveraging Predictions From Multiple Repositories to Improve Bot Detection**
 Natarajan Chidambaram, Alexandre Decan, Mehdi Golzadeh
 in 4th Workshop on Bots in Software Engineering (BotSE), IEEE/ACM ICSEW 2022
-(in press)
+[Voir le PDF](files/BOTSE-2022a.pdf)
 
 2022 - **On the rise and fall of CI services in GitHub**
 Mehdi Golzadeh, Alexandre Decan, Tom Mens
