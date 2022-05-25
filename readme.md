@@ -89,6 +89,11 @@ in RAIRO : Theoretical Informatics and Applications, 46, 1, p33-50, 2012
 
 ### Article dans les actes avec comité de lecture
 
+2022 - **Recognizing bot activity in collaborative software development**
+Mehdi Golzadeh, Tom Mens, Alexandre Decan, Eleni Constantinou, Natarajan Chidambaram
+in IEEE Software Special Issue: Bots in Software Engineering, 2022
+[Voir le PDF](files/IEEESW-2022.pdf)
+
 2022 - **On the accuracy of bot detection techniques**
 Mehdi Golzadeh, Alexandre Decan, Natarajan Chidambaram
 in 4th Workshop on Bots in Software Engineering (BotSE), IEEE/ACM ICSEW 2022
