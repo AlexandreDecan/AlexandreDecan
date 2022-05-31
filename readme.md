@@ -22,8 +22,8 @@ Liens :
 
 2022 - **On the Impact of Security Vulnerabilities in the npm and RubyGems Dependency Networks**
 Ahmed Zerouali, Tom Mens, Alexandre Decan, Coen De Roover
-in Empirical Software Engineering, 2022
-[Voir le PDF](files/EMSE-2022.pdf) (in press)
+in Empirical Software Engineering, 10.1007/s10664-022-10154-1, 2022
+[Voir le PDF](files/EMSE-2022.pdf)
 
 2021 - **Back to the Past - Analysing Backporting Practices in Package Dependency Networks**
 Alexandre Decan, Tom Mens, Ahmed Zerouali, Coen De Roover
