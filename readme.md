@@ -20,6 +20,11 @@ Liens :
 
 ### Journal avec peer-review
 
+2022 - **Recognizing bot activity in collaborative software development**
+Mehdi Golzadeh, Tom Mens, Alexandre Decan, Eleni Constantinou, Natarajan Chidambaram
+in IEEE Software Special Issue: Bots in Software Engineering, 10.1109/MS.2022.3178601, 2022
+[Voir le PDF](files/IEEESW-2022.pdf)
+
 2022 - **On the Impact of Security Vulnerabilities in the npm and RubyGems Dependency Networks**
 Ahmed Zerouali, Tom Mens, Alexandre Decan, Coen De Roover
 in Empirical Software Engineering, 10.1007/s10664-022-10154-1, 2022
@@ -88,11 +93,6 @@ in RAIRO : Theoretical Informatics and Applications, 46, 1, p33-50, 2012
 
 
 ### Article dans les actes avec comité de lecture
-
-2022 - **Recognizing bot activity in collaborative software development**
-Mehdi Golzadeh, Tom Mens, Alexandre Decan, Eleni Constantinou, Natarajan Chidambaram
-in IEEE Software Special Issue: Bots in Software Engineering, 2022
-[Voir le PDF](files/IEEESW-2022.pdf)
 
 2022 - **On the accuracy of bot detection techniques**
 Mehdi Golzadeh, Alexandre Decan, Natarajan Chidambaram
