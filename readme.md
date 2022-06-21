@@ -94,6 +94,11 @@ in RAIRO : Theoretical Informatics and Applications, 46, 1, p33-50, 2012
 
 ### Article dans les actes avec comité de lecture
 
+2022 - **On the Use of GitHub Actions in Software Development Repositories
+Alexandre Decan, Tom Mens, Pooya Rostami Mazrae, Mehdi Golzadeh
+38th IEEE International Conference on Software Maintenance and Evolution (ICSME), Limassol, Cyprus, 2022
+[Voir le PDF](files/ICSME-2022.pdf)
+
 2022 - **On the accuracy of bot detection techniques**
 Mehdi Golzadeh, Alexandre Decan, Natarajan Chidambaram
 in 4th Workshop on Bots in Software Engineering (BotSE), IEEE/ACM ICSEW 2022
