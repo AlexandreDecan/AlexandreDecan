@@ -94,9 +94,14 @@ in RAIRO : Theoretical Informatics and Applications, 46, 1, p33-50, 2012
 
 ### Article dans les actes avec comité de lecture
 
+2022 - **Patched Clones and Missed Patches among the Divergent  Variants of a Software Family**
+Poedjadevie Ramkisoen, John Businge, Brent van Bladel, Alexandre Decan, Serge Demeyer, Coen De Roover, Foutse Khomh
+in ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), Singapore, 2022
+(in press)
+
 2022 - **On the Use of GitHub Actions in Software Development Repositories**
 Alexandre Decan, Tom Mens, Pooya Rostami Mazrae, Mehdi Golzadeh
-38th IEEE International Conference on Software Maintenance and Evolution (ICSME), Limassol, Cyprus, 2022
+in 38th IEEE International Conference on Software Maintenance and Evolution (ICSME), Limassol, Cyprus, 2022
 [Voir le PDF](files/ICSME-2022.pdf)
 
 2022 - **On the accuracy of bot detection techniques**
