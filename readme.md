@@ -97,7 +97,7 @@ in RAIRO : Theoretical Informatics and Applications, 46, 1, p33-50, 2012
 2022 - **Patched Clones and Missed Patches among the Divergent  Variants of a Software Family**
 Poedjadevie Ramkisoen, John Businge, Brent van Bladel, Alexandre Decan, Serge Demeyer, Coen De Roover, Foutse Khomh
 in ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), Singapore, 2022
-(in press)
+[Voir le PDF](files/FSE-2022.pdf)
 
 2022 - **On the Use of GitHub Actions in Software Development Repositories**
 Alexandre Decan, Tom Mens, Pooya Rostami Mazrae, Mehdi Golzadeh
