@@ -2,7 +2,7 @@
 
 ![photo](https://fr.gravatar.com/userimage/61623575/5eb3b9c806a02eb4935b94130c07aff3.jpg?size=120)
 
-## Data scientist & docteur en sciences
+## Chercheur qualifié F.R.S-FNRS, Université de Mons (UMONS)
 
 Licencié en informatique et docteur en sciences, je suis passionné par l'IT depuis plus de 25 ans. Après plusieurs années en tant que chercheur dans les systèmes d'information, et après davantage d'années à pratiquer activement le développement et la veille technologique en tant que loisirs, je suis actuellement chercheur en sciences informatiques à l'université de Mons, en Belgique.
 
