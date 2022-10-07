@@ -243,3 +243,40 @@ in Software Technology : 10 Years of Innovation in IEEE Computer, John Wiley & S
 2013 - **Certain Query Answering in First-Order Languages**
 Thèse de doctorat soutenue le 2 juillet 2013
 [Voir le PDF](files/Thesis-2013.pdf)
+
+
+### Organisation de conférences
+
+**BENEVOL 2022**
+21st Belgium-Netherlands Software Evolution Workshop
+12-13 septembre 2022, Mons, Belgique
+
+**TIME 2017**
+24th International Symposium on Temporal Representation and Reasoning
+16-18 octobre 2017, Mons, Belgique
+
+**EuroDocInfo 2009**
+22-23 Janvier 2009, Mons, Belgique
+
+**BDA 2009**
+25èmes journées de Bases de Données Avancées
+20-23 octobre 2009, Namur, Belgique
+
+
+### Distinction
+
+**ICSME 2022 Distinguished Paper**
+38th IEEE International Conference on Software Maintenance & Evolution
+Distinguished paper award for *On the Use of GitHub Actions in Software Development Repositories*
+
+
+### Jury de thèse
+
+**Dealing with Inconsistencies in Knowledge Bases**
+Horacio Tellez Perez, 23 septembre 2021, University of Mons, Belgique
+
+**A Measurement Framework for Analyzing Technical Lag in Open-Source Software Ecosystems**
+Ahmed Zerouali, 4 septembre 2019, University of Mons, Belgique
+
+**Theoretical and Practical Methods for Consistent Query Answering in the Relational Data Model**
+Fabian Pijcke, 8 Février 2018, University of Mons, Belgique
