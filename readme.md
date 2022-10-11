@@ -250,24 +250,28 @@ Thèse de doctorat soutenue le 2 juillet 2013
 **BENEVOL 2022**
 21st Belgium-Netherlands Software Evolution Workshop
 12-13 septembre 2022, Mons, Belgique
+[https://benevol2022.github.io/](https://benevol2022.github.io/)
 
 **TIME 2017**
 24th International Symposium on Temporal Representation and Reasoning
 16-18 octobre 2017, Mons, Belgique
+[http://informatique.umons.ac.be/time2017/](http://informatique.umons.ac.be/time2017/)
 
 **EuroDocInfo 2009**
 22-23 Janvier 2009, Mons, Belgique
+[http://eurodocinfo09.umh.ac.be/](http://eurodocinfo09.umh.ac.be/)
 
 **BDA 2009**
 25èmes journées de Bases de Données Avancées
 20-23 octobre 2009, Namur, Belgique
-
+[https://info.fundp.ac.be/bda2009/](https://info.fundp.ac.be/bda2009/)
 
 ### Distinction
 
 **ICSME 2022 Distinguished Paper**
 38th IEEE International Conference on Software Maintenance & Evolution
 Distinguished paper award for *On the Use of GitHub Actions in Software Development Repositories*
+[Voir le PDF](files/ICSME-2022-award.pdf)
 
 
 ### Jury de thèse
