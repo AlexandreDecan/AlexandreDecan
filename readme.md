@@ -20,6 +20,10 @@ Liens :
 
 ### Journal avec peer-review
 
+2023 - **On the usage, co-usage and migration of CI/CD tools: a qualitative analysis**
+Pooya Rostami Mazrae, Tom Mens, Mehdi Golzadeh, Alexandre Decan
+in Empirical Software Engineering (in press), 2023
+
 2022 - **Recognizing bot activity in collaborative software development**
 Mehdi Golzadeh, Tom Mens, Alexandre Decan, Eleni Constantinou, Natarajan Chidambaram
 in IEEE Software Special Issue: Bots in Software Engineering, 10.1109/MS.2022.3178601, 2022
@@ -266,12 +270,31 @@ Thèse de doctorat soutenue le 2 juillet 2013
 20-23 octobre 2009, Namur, Belgique
 [https://info.fundp.ac.be/bda2009/](https://info.fundp.ac.be/bda2009/)
 
+
 ### Distinction
 
 **ICSME 2022 Distinguished Paper**
 38th IEEE International Conference on Software Maintenance & Evolution
 Distinguished paper award for *On the Use of GitHub Actions in Software Development Repositories*
 [Voir le PDF](files/ICSME-2022-award.pdf)
+
+
+### Financement
+
+2023 - **Mandat d'Impulsion Scientifique**
+On the impact of workflow automation solutions on continuous collaborative open source software engineering
+F.R.S.-FNRS, 2023-2025, F.4515.23, 428.991€
+
+2022 - **Chercheur Qualifié**
+Analysing and improving workflow automation in continuous collaborative open source software engineering
+F.R.S.-FNRS, 2022, 1.C.024.23F, 20.000€
+
+
+### Promoteur de thèse
+
+**Hassan Onsori Delicheh**
+Empirical analysis, recommendations and improvements for software development workflow automation ecosystems
+Université de Mons, 2022 (en cours)
 
 
 ### Jury de thèse
