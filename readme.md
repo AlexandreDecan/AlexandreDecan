@@ -9,20 +9,20 @@ Licencié en informatique et docteur en sciences, je suis passionné par l'IT de
 Mon domaine de prédilection concerne tout ce qui touche aux données de près ou de loin, allant des bases de données relationnelles au big data, en passant par les statistiques, le data mining et le machine learning.
 
 Liens :
- - Me contacter par [email](mailto:alexandre.decan@lexpage.net).
+ - Me contacter via [alexandre.decan@umons.ac.be](mailto:alexandre.decan@umons.ac.be) ou [alexandre.decan@lexpage.net](mailto:alexandre.decan@lexpage.net).
  - Télécharger mon [curriculum vitae](files/cv.pdf).
  - Mes projets sur [GitHub](https://github.com/AlexandreDecan/).
+ - Mon profil [Google Scholar](https://scholar.google.be/citations?user=K5cy9lYAAAAJ).
 
 
 ## Publications
-
-
 
 ### Journal avec peer-review
 
 2023 - **On the usage, co-usage and migration of CI/CD tools: a qualitative analysis**
 Pooya Rostami Mazrae, Tom Mens, Mehdi Golzadeh, Alexandre Decan
 in Empirical Software Engineering (in press), 10.1007/s10664-022-10285-5, 2023
+[Voir le PDF](files/EMSE-2023a.pdf)
 
 2022 - **Recognizing bot activity in collaborative software development**
 Mehdi Golzadeh, Tom Mens, Alexandre Decan, Eleni Constantinou, Natarajan Chidambaram
