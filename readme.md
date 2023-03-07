@@ -21,7 +21,7 @@ Liens :
 
 2023 - **On the usage, co-usage and migration of CI/CD tools: a qualitative analysis**
 Pooya Rostami Mazrae, Tom Mens, Mehdi Golzadeh, Alexandre Decan
-in Empirical Software Engineering (in press), 10.1007/s10664-022-10285-5, 2023
+in Empirical Software Engineering 28, 52, 10.1007/s10664-022-10285-5, 2023
 [Voir le PDF](files/EMSE-2023a.pdf)
 
 2022 - **Recognizing bot activity in collaborative software development**
