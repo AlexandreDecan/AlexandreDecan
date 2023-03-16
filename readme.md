@@ -98,6 +98,11 @@ in RAIRO : Theoretical Informatics and Applications, 46, 1, p33-50, 2012
 
 ### Article dans les actes avec comité de lecture
 
+2023 - **A Dataset of Bot and Human Activities in GitHub**
+Natarajan Chidambaram, Alexandre Decan, Tom Mens
+in 20th International Conference on Mining Software Repositories (MSR), Melbourne, Australia, 2023
+[Voir le PDF](files/MSR-2023.pdf)
+
 2022 - **Patched Clones and Missed Patches among the Divergent  Variants of a Software Family**
 Poedjadevie Ramkisoen, John Businge, Brent van Bladel, Alexandre Decan, Serge Demeyer, Coen De Roover, Foutse Khomh
 in ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), Singapore, 2022
