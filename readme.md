@@ -304,6 +304,9 @@ Université de Mons, 2022 (en cours)
 
 ### Jury de thèse
 
+**Identifying Development Bots in Social Coding Platforms**
+Mehdi Golzadeh, 22 juin 2023, University of Mons, Belgique
+
 **Dealing with Inconsistencies in Knowledge Bases**
 Horacio Tellez Perez, 23 septembre 2021, University of Mons, Belgique
 
