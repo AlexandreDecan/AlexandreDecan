@@ -19,6 +19,12 @@ Liens :
 
 ### Journal avec peer-review
 
+
+2023 - **On the Outdatedness of Workflows in the GitHub Actions Ecosystem**
+Alexandre Decan, Tom Mens, Hassan Onsori Delicheh
+in Journal of Systems and Software (in press)
+[Voir le PDF](files/JSS-2023.pdf)
+
 2023 - **On the usage, co-usage and migration of CI/CD tools: a qualitative analysis**
 Pooya Rostami Mazrae, Tom Mens, Mehdi Golzadeh, Alexandre Decan
 in Empirical Software Engineering 28, 52, 10.1007/s10664-022-10285-5, 2023
@@ -97,6 +103,22 @@ in RAIRO : Theoretical Informatics and Applications, 46, 1, p33-50, 2012
 
 
 ### Article dans les actes avec comité de lecture
+
+2023 - **A Preliminary Study of GitHub Actions Workflow Changes**
+Pooya Rostami Mazrae, Alexandre Decan, Tom Mens, Mairieli Wessel
+in Seminar Series on Advanced Techniques & Tools for Software Evolution (SATToSE),  Salerno, Italie, 2023
+[Voir le PDF](files/SATTOSE-2023c.pdf)
+
+
+2023 - **Distinguishing Bots from Human Developers Based on their GitHub Activity Types**
+Natarajan Chidambaram, Alexandre Decan, Tom Mens
+in Seminar Series on Advanced Techniques & Tools for Software Evolution (SATToSE),  Salerno, Italie, 2023
+[Voir le PDF](files/SATTOSE-2023b.pdf)
+
+2023 - **A Preliminary Study of GitHub Actions Dependencies**
+Hassan Onsori Delicheh, Alexandre Decan, Tom Mens
+in Seminar Series on Advanced Techniques & Tools for Software Evolution (SATToSE),  Salerno, Italie, 2023
+[Voir le PDF](files/SATTOSE-2023a.pdf)
 
 2023 - **A Dataset of Bot and Human Activities in GitHub**
 Natarajan Chidambaram, Alexandre Decan, Tom Mens
