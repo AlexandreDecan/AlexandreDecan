@@ -106,18 +106,18 @@ in RAIRO : Theoretical Informatics and Applications, 46, 1, p33-50, 2012
 
 2023 - **A Preliminary Study of GitHub Actions Workflow Changes**
 Pooya Rostami Mazrae, Alexandre Decan, Tom Mens, Mairieli Wessel
-in Seminar Series on Advanced Techniques & Tools for Software Evolution (SATToSE),  Salerno, Italie, 2023
+in Seminar Series on Advanced Techniques & Tools for Software Evolution (SATToSE),  Salerno, Italy, 2023
 [Voir le PDF](files/SATTOSE-2023c.pdf)
 
 
 2023 - **Distinguishing Bots from Human Developers Based on their GitHub Activity Types**
 Natarajan Chidambaram, Alexandre Decan, Tom Mens
-in Seminar Series on Advanced Techniques & Tools for Software Evolution (SATToSE),  Salerno, Italie, 2023
+in Seminar Series on Advanced Techniques & Tools for Software Evolution (SATToSE),  Salerno, Italy, 2023
 [Voir le PDF](files/SATTOSE-2023b.pdf)
 
 2023 - **A Preliminary Study of GitHub Actions Dependencies**
 Hassan Onsori Delicheh, Alexandre Decan, Tom Mens
-in Seminar Series on Advanced Techniques & Tools for Software Evolution (SATToSE),  Salerno, Italie, 2023
+in Seminar Series on Advanced Techniques & Tools for Software Evolution (SATToSE),  Salerno, Italy, 2023
 [Voir le PDF](files/SATTOSE-2023a.pdf)
 
 2023 - **A Dataset of Bot and Human Activities in GitHub**
