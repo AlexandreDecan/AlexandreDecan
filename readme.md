@@ -324,6 +324,14 @@ F.R.S.-FNRS, 2022, 1.C.024.23F, 20.000€
 
 ### Promoteur de thèse
 
+**Yourri Houness**
+On the impact of workflow automation on continuous collaborative open source software engineering
+Université de Mons, 2023 (en cours)
+
+**Ehsan Siddique**
+On the impact of workflow automation on continuous collaborative open source software engineering
+Université de Mons, 2023 (en cours)
+
 **Hassan Onsori Delicheh**
 Empirical analysis, recommendations and improvements for software development workflow automation ecosystems
 Université de Mons, 2022 (en cours)
