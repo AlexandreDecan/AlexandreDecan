@@ -104,6 +104,28 @@ in RAIRO : Theoretical Informatics and Applications, 46, 1, p33-50, 2012
 
 ### Article dans les actes avec comité de lecture
 
+
+
+2024 - **Quantifying Security Issues in Reusable JavaScript Actions in GitHub Workflows**
+Hassan Onsori Delicheh, Alexandre Decan, Tom Mens
+in 21st International Conference on Mining Software Repositories (MSR), Lisbon, Portugal, 2024
+[Voir le PDF](files/msr-2024a.pdf)
+
+2024 - **gawd: A Differencing Tool for GitHub Actions Workflows**
+Pooya Rostami Mazrae, Alexandre Decan, Tom Mens
+in 21st International Conference on Mining Software Repositories (MSR), Lisbon, Portugal, 2024
+[Voir le PDF](files/msr-2024b.pdf)
+
+2024 - **RABBIT: A tool for identifying bot accounts based on their recent GitHub event history**
+Natarajan Chidambaram, Tom Mens, Alexandre Decan
+in 21st International Conference on Mining Software Repositories (MSR), Lisbon, Portugal, 2024
+[Voir le PDF](files/msr-2024c.pdf)
+
+2024 - **A dataset of GitHub Actions workflow histories**
+Guillaume Cardoen, Tom Mens, Alexandre Decan
+in 21st International Conference on Mining Software Repositories (MSR), Lisbon, Portugal, 2024
+[Voir le PDF](files/msr-2024d.pdf)
+
 2023 - **A Preliminary Study of GitHub Actions Workflow Changes**
 Pooya Rostami Mazrae, Alexandre Decan, Tom Mens, Mairieli Wessel
 in Seminar Series on Advanced Techniques & Tools for Software Evolution (SATToSE),  Salerno, Italy, 2023
