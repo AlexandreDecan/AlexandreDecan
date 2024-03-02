@@ -1,18 +1,14 @@
-# Alexandre Decan
+## Alexandre Decan
 
-![photo](https://fr.gravatar.com/userimage/61623575/5eb3b9c806a02eb4935b94130c07aff3.jpg?size=120)
+### Chercheur qualifié F.R.S.-FNRS, UMONS
 
-## Chercheur qualifié F.R.S.-FNRS, Université de Mons (UMONS)
+Licencié en informatique et docteur en sciences, je suis passionné par l'IT depuis plus de 30 ans. Après plusieurs années en tant que chercheur dans les systèmes d'information, et après davantage d'années à pratiquer activement le développement et la veille technologique en tant que loisirs, je suis actuellement chercheur F.R.S.-FNRS au sein du département d'informatique de la faculté des sciences de l'université de Mons en Belgique.
 
-Licencié en informatique et docteur en sciences, je suis passionné par l'IT depuis plus de 25 ans. Après plusieurs années en tant que chercheur dans les systèmes d'information, et après davantage d'années à pratiquer activement le développement et la veille technologique en tant que loisirs, je suis actuellement chercheur en sciences informatiques à l'université de Mons, en Belgique.
+ - Me contacter [alexandre.decan@umons.ac.be](mailto:alexandre.decan@umons.ac.be) ou [alexandre.decan@lexpage.net](mailto:alexandre.decan@lexpage.net)
+ - Télécharger mon [curriculum vitae](files/cv.pdf)
+ - Mes projets sur [GitHub](https://github.com/AlexandreDecan/)
+ - Mon profil [Google Scholar](https://scholar.google.be/citations?user=K5cy9lYAAAAJ)
 
-Mon domaine de prédilection concerne tout ce qui touche aux données de près ou de loin, allant des bases de données relationnelles au big data, en passant par les statistiques, le data mining et le machine learning.
-
-Liens :
- - Me contacter via [alexandre.decan@umons.ac.be](mailto:alexandre.decan@umons.ac.be) ou [alexandre.decan@lexpage.net](mailto:alexandre.decan@lexpage.net).
- - Télécharger mon [curriculum vitae](files/cv.pdf).
- - Mes projets sur [GitHub](https://github.com/AlexandreDecan/).
- - Mon profil [Google Scholar](https://scholar.google.be/citations?user=K5cy9lYAAAAJ).
 
 
 ## Publications
