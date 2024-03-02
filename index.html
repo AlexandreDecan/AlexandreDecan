@@ -7,11 +7,14 @@
   </head>
   <body>
 
-    <zero-md src="readme.md">
-        <template>
-            <link rel="stylesheet" href="markdown.css">
-        </template>
-    </zero-md>
-
+    <zero-md id="mdapp" src="readme.md" manual-render></zero-md>
+    <script language="javascript">
+      window.onload = function () {
+        mdapp.render({
+          gfm: true,
+          breaks: true,
+        })
+      };
+    </script>
   </body>
 </html>
