@@ -2,13 +2,12 @@
 
 ### Chercheur qualifié F.R.S.-FNRS, UMONS
 
-Licencié en informatique et docteur en sciences, je suis passionné par l'IT depuis plus de 30 ans. Après plusieurs années en tant que chercheur dans les systèmes d'information, et après davantage d'années à pratiquer activement le développement et la veille technologique en tant que loisirs, je suis actuellement chercheur F.R.S.-FNRS au sein du département d'informatique de la faculté des sciences de l'université de Mons en Belgique.
+Licencié en informatique et docteur en sciences, je suis passionné par l'IT depuis plus de 30 ans. Après plusieurs années en tant que chercheur dans les systèmes d'information, et après davantage d'années à pratiquer activement le développement et la veille technologique en tant que loisirs, je suis actuellement chercheur F.R.S.-FNRS au sein du Service de Génie Logiciel du Département d'Informatique de la Faculté des Sciences de l'Université de Mons en Belgique.
 
- - Me contacter [alexandre.decan@umons.ac.be](mailto:alexandre.decan@umons.ac.be) ou [alexandre.decan@lexpage.net](mailto:alexandre.decan@lexpage.net)
- - Télécharger mon [curriculum vitae](files/cv.pdf)
- - Mes projets sur [GitHub](https://github.com/AlexandreDecan/)
- - Mon profil [Google Scholar](https://scholar.google.be/citations?user=K5cy9lYAAAAJ)
-
+ - Me contacter via [alexandre.decan@umons.ac.be](mailto:alexandre.decan@umons.ac.be) ou [alexandre.decan@lexpage.net](mailto:alexandre.decan@lexpage.net).
+ - Télécharger mon [curriculum vitae](files/cv.pdf).
+ - Mes projets sur [GitHub](https://github.com/AlexandreDecan/).
+ - Mon profil [Google Scholar](https://scholar.google.be/citations?user=K5cy9lYAAAAJ).
 
 
 ## Publications
