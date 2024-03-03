@@ -9,12 +9,12 @@
 
     <zero-md id="mdapp" src="readme.md" manual-render></zero-md>
     <script language="javascript">
-      window.onload = function () {
+      customElements.whenDefined("zero-md").then(() => {
         mdapp.render({
           gfm: true,
           breaks: true,
         })
-      };
+      })
     </script>
   </body>
 </html>
