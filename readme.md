@@ -196,6 +196,16 @@ Mehdi Golzadeh, Damien Legay, Alexandre Decan, Tom Mens
 in 2nd Workshop on Bots in Software Engineering (BotSE), IEEE/ACM ICSEW 2020, Seoul, Republic of Korea, 2020
 [Voir le PDF](files/BOTSE-2020.pdf)
 
+2020 - **An Empirical Investigation of Forks as Variants in the npm Package Distribution**
+John Businge, Alexandre Decan, Ahmed Zerouali, Tom Mens, Serge Demeyer
+in 19th Belgium-Netherlands Software Evolution Workshop (BENEVOL), Luxembourg, Luxembourg, 2020
+[Voir le PDF](files/BENEVOL-2020b.pdf)
+
+2020 - **Evaluating a Bot Detection Model on Git Commit Messages**
+Mehdi Golzadeh, Alexandre Decan, Tom Mens
+in 19th Belgium-Netherlands Software Evolution Workshop (BENEVOL), Luxembourg, Luxembourg, 2020
+[Voir le PDF](files/BENEVOL-2020a.pdf)
+
 2019 - **Towards an Understanding of the Impact of Badges in GitHub Repositories**
 Damien Legay, Alexandre Decan, Tom Mens
 in 18th Belgium-Netherlands Software Evolution Workshop (BENEVOL), Brussels, Belgium, 2019
