@@ -355,10 +355,6 @@ F.R.S.-FNRS, 2022, 1.C.024.23F, 20.000€
 On the impact of workflow automation on continuous collaborative open source software engineering
 Université de Mons, 2023 (en cours)
 
-**Ehsan Siddique**
-On the impact of workflow automation on continuous collaborative open source software engineering
-Université de Mons, 2023 (en cours)
-
 **Guillaume Cardoen**
 On workflow automation in open source software repositories
 Université de Mons, 2023 (en cours)
