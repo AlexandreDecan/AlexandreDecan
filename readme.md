@@ -99,7 +99,10 @@ in RAIRO : Theoretical Informatics and Applications, 46, 1, p33-50, 2012
 
 ### Article dans les actes avec comité de lecture
 
-
+2024 - **A Review and Catalogue of Dependency Challenges in Open Source Software Package Registries**
+Tom Mens, Alexandre Decan
+in 23rd Belgium-Netherlands Software Evolution Workshop (BENEVOL), Namur, Belgium, 2024
+[Voir le PDF](files/BENEVOL-2024.pdf)
 
 2024 - **Quantifying Security Issues in Reusable JavaScript Actions in GitHub Workflows**
 Hassan Onsori Delicheh, Alexandre Decan, Tom Mens
@@ -350,6 +353,10 @@ F.R.S.-FNRS, 2022, 1.C.024.23F, 20.000€
 
 
 ### Promoteur de thèse
+
+**Aref Talebzadeh**
+On the impact of workflow automation on continuous collaborative open source software engineering
+Université de Mons, 2024 (en cours)
 
 **Yourri Houness**
 On the impact of workflow automation on continuous collaborative open source software engineering
