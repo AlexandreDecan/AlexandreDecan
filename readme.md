@@ -15,10 +15,9 @@ Licencié en informatique et docteur en sciences, je suis passionné par l'IT de
 ### Journal avec peer-review
 
 
-
-2024 - **A Bot Identification Model and Tool Based on GitHub Activity Sequences**
+2025 - **A Bot Identification Model and Tool Based on GitHub Activity Sequences**
 Natarajan Chidambaram, Alexandre Decan, Tom Mens
-in Journal of Systems and Software, 10.1016/j.jss.2024.112287, 2024
+in Journal of Systems and Software, 10.1016/j.jss.2024.112287, 2025
 [Voir le PDF](files/JSS-2024.pdf)
 
 2023 - **On the Outdatedness of Workflows in the GitHub Actions Ecosystem**
