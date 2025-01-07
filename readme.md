@@ -104,7 +104,7 @@ in RAIRO : Theoretical Informatics and Applications, 46, 1, p33-50, 2012
 
 ### Article dans les actes avec comité de lecture
 
-2024 - **A Review and Catalogue of Dependency Challenges in Open Source Software Package Registries**
+2024 - **An Overview and Catalogue of Dependency Challenges in Open Source Software Package Registries**
 Tom Mens, Alexandre Decan
 in 23rd Belgium-Netherlands Software Evolution Workshop (BENEVOL), Namur, Belgium, 2024
 [Voir le PDF](files/BENEVOL-2024.pdf)
