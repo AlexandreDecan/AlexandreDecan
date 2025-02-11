@@ -18,7 +18,7 @@ Licencié en informatique et docteur en sciences, je suis passionné par l'IT de
 2025 - **A Bot Identification Model and Tool Based on GitHub Activity Sequences**
 Natarajan Chidambaram, Alexandre Decan, Tom Mens
 in Journal of Systems and Software, 10.1016/j.jss.2024.112287, 2025
-[Voir le PDF](files/JSS-2024.pdf)
+[Voir le PDF](files/JSS-2025.pdf)
 
 2023 - **On the Outdatedness of Workflows in the GitHub Actions Ecosystem**
 Alexandre Decan, Tom Mens, Hassan Onsori Delicheh
@@ -103,6 +103,11 @@ in RAIRO : Theoretical Informatics and Applications, 46, 1, p33-50, 2012
 
 
 ### Article dans les actes avec comité de lecture
+
+2025 - **A Dataset of Contributor Activities in the NumFocus Open-Source Community**
+Youness Hourri, Alexandre Decan, Tom Mens
+in 22nd International Conference on Mining Software Repositories (MSR), Ottawa, Canada, 2025
+[Voir le PDF](files/MSR-2025.pdf)
 
 2024 - **An Overview and Catalogue of Dependency Challenges in Open Source Software Package Registries**
 Tom Mens, Alexandre Decan
