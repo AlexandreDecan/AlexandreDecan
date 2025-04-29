@@ -345,6 +345,11 @@ Thèse de doctorat soutenue le 2 juillet 2013
 
 ### Distinction
 
+**MSR 2025 Distinguished Paper**
+22nd International Conference on Mining Software Repositories
+Distinguished paper award for *A Dataset of Contributor Activities in the NumFocus Open-Source Community*
+[Voir le PDF](files/MSR25-award.jpg)
+
 **ICSME 2022 Distinguished Paper**
 38th IEEE International Conference on Software Maintenance & Evolution
 Distinguished paper award for *On the Use of GitHub Actions in Software Development Repositories*
