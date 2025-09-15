@@ -1,8 +1,8 @@
-## Alexandre Decan
+# Alexandre Decan
+
+## F.R.S.-FNRS Research Associate / University of Mons, Belgium
 
 ![Alexandre Decan](files/picture.jpg)
-
-### F.R.S.-FNRS Research Associate / University of Mons, Belgium
 
 I obtained my PhD in Science in 2013 at the University of Mons (UMONS), Belgium. I have authored many well-cited publications related to the maintenance and evolution of software ecosystems in top software engineering conferences and journals. In 2022, I became a tenured F.R.S.-FNRS research associate affiliated with the Software Engineering Lab of the Computer Science Department at the Faculty of Sciences of the University of Mons (UMONS), Belgium. My current research focuses on analysing and improving workflow automation in continuous collaborative open source software engineering.
 
@@ -387,7 +387,7 @@ Empirical analysis, recommendations and improvements for software development wo
 University of Mons, Belgium, 2022 (ongoing)
 
 
-### Jury de thèse
+### PhD Defense Committee
 
 **Improving Bot Identification in Collaborative Software Development on GitHub**
 Natarajan Chidambaram, 22 May 2025, University of Mons, Belgium
