@@ -103,7 +103,6 @@ in RAIRO : Theoretical Informatics and Applications, 46, 1, p33-50, 2012
 [Download](files/RAIRO-2012.pdf)
 
 
-
 ### Conferences and workshops
 
 2025 - **A Dataset of Contributor Activities in the NumFocus Open-Source Community**
@@ -387,7 +386,7 @@ Empirical analysis, recommendations and improvements for software development wo
 University of Mons, Belgium, 2022 (ongoing)
 
 
-### PhD Defense Committee
+### PhD Defense Committees
 
 **Improving Bot Identification in Collaborative Software Development on GitHub**
 Natarajan Chidambaram, 22 May 2025, University of Mons, Belgium
