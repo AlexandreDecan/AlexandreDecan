@@ -321,28 +321,6 @@ University of Mons, Belgium, 2 July 2013
 [Download](files/Thesis-2013.pdf)
 
 
-### Conference organisation
-
-**BENEVOL 2022**
-21st Belgium-Netherlands Software Evolution Workshop
-12-13 septembre 2022, Mons, Belgium
-[https://benevol2022.github.io](https://benevol2022.github.io)
-
-**TIME 2017**
-24th International Symposium on Temporal Representation and Reasoning
-16-18 octobre 2017, Mons, Belgium
-[http://informatique.umons.ac.be/time2017](http://informatique.umons.ac.be/time2017)
-
-**EuroDocInfo 2009**
-22-23 Janvier 2009, Mons, Belgium
-[http://eurodocinfo09.umh.ac.be](http://eurodocinfo09.umh.ac.be)
-
-**BDA 2009**
-25èmes journées de Bases de Données Avancées
-20-23 octobre 2009, Namur, Belgium
-[https://info.fundp.ac.be/bda2009](https://info.fundp.ac.be/bda2009)
-
-
 ### Awards
 
 **MSR 2025 Distinguished Paper**
@@ -402,3 +380,27 @@ Ahmed Zerouali, 4 September 2019, University of Mons, Belgium
 
 **Theoretical and Practical Methods for Consistent Query Answering in the Relational Data Model**
 Fabian Pijcke, 8 February 2018, University of Mons, Belgium
+
+
+
+### Conference organisation
+
+**BENEVOL 2022**
+21st Belgium-Netherlands Software Evolution Workshop
+12-13 septembre 2022, Mons, Belgium
+[https://benevol2022.github.io](https://benevol2022.github.io)
+
+**TIME 2017**
+24th International Symposium on Temporal Representation and Reasoning
+16-18 octobre 2017, Mons, Belgium
+[http://informatique.umons.ac.be/time2017](http://informatique.umons.ac.be/time2017)
+
+**EuroDocInfo 2009**
+22-23 Janvier 2009, Mons, Belgium
+[http://eurodocinfo09.umh.ac.be](http://eurodocinfo09.umh.ac.be)
+
+**BDA 2009**
+25èmes journées de Bases de Données Avancées
+20-23 octobre 2009, Namur, Belgium
+[https://info.fundp.ac.be/bda2009](https://info.fundp.ac.be/bda2009)
+
