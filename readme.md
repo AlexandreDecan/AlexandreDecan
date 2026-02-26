@@ -16,6 +16,10 @@ I obtained my PhD in Science in 2013 at the University of Mons (UMONS), Belgium.
 
 ### Journals
 
+2026 - **An Empirical Study of the Evolution of GitHub Actions Workflows**
+Pooya Rostami Mazrae, Alexandre Decan, Tom Mens, Mairieli Wessel
+in Journal of Systems and Software, 10.1016/j.jss.2026.112824, 2026
+[Download](files/JSS-2026.pdf)
 
 2025 - **A Bot Identification Model and Tool Based on GitHub Activity Sequences**
 Natarajan Chidambaram, Alexandre Decan, Tom Mens
