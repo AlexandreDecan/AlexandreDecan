@@ -109,6 +109,11 @@ in RAIRO : Theoretical Informatics and Applications, 46, 1, p33-50, 2012
 
 ### Conferences and workshops
 
+2026 - **An Empirical Analysis of Code Clones in GitHub Actions Workflows**
+Guillaume Cardoen, Tom Mens, Alexandre Decan
+in 33rd International Conference on Software Analysis, Evolution and Reengineering (SANER), Limassol, Cyprus, 2026
+[Download](files/SANER-2026.pdf)
+
 2025 - **A Dataset of Contributor Activities in the NumFocus Open-Source Community**
 Youness Hourri, Alexandre Decan, Tom Mens
 in 22nd International Conference on Mining Software Repositories (MSR), Ottawa, Canada, 2025
