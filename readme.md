@@ -16,6 +16,11 @@ I obtained my PhD in Science in 2013 at the University of Mons (UMONS), Belgium.
 
 ### Journals
 
+2026 - **Automation and Reuse Practices in GitHub Actions Workflows: A Practitioner's Perspective**
+Hassan Onsori Delicheh, Guillaume Cardoen, Alexandre Decan, Tom Mens
+in Transactions on Software Engineering and Methodology, 10.1145/3806833, 2026
+[Download](files/TOSEM-2026.pdf)
+
 2026 - **An Empirical Study of the Evolution of GitHub Actions Workflows**
 Pooya Rostami Mazrae, Alexandre Decan, Tom Mens, Mairieli Wessel
 in Journal of Systems and Software, 10.1016/j.jss.2026.112824, 2026
@@ -360,10 +365,6 @@ F.R.S.-FNRS, 2022, 1.C.024.23F, 20.000€
 On the impact of workflow automation on continuous collaborative open source software engineering
 University of Mons, Belgium, 2024 (ongoing)
 
-**Yourri Houness**
-On the impact of workflow automation on continuous collaborative open source software engineering
-University of Mons, Belgium, 2023 (ongoing)
-
 **Guillaume Cardoen**
 On workflow automation in open source software repositories
 University of Mons, Belgium, 2023 (ongoing)
@@ -374,6 +375,9 @@ University of Mons, Belgium, 2022 (ongoing)
 
 
 ### PhD Defense Committees
+
+**Understanding the Evolution of GitHub Actions Automation Workflows**
+Pooya Rostami Mazrae, 6 May 2026, University of Mons, Belgium
 
 **Improving Bot Identification in Collaborative Software Development on GitHub**
 Natarajan Chidambaram, 22 May 2025, University of Mons, Belgium
