@@ -114,6 +114,21 @@ in RAIRO : Theoretical Informatics and Applications, 46, 1, p33-50, 2012
 
 ### Conferences and workshops
 
+2026 - **On the GitHub Actions Language: Usage, Evolution, and Workflow Reliability**
+Aref Talebzadeh Bardsiri, Alexandre Decan, Tom Mens
+in 42nd IEEE International Conference on Software Maintenance and Evolution (ICSME), Benevento, Italy, 2026
+[Download](files/ICSME-2026a.pdf)
+
+2026 - **GHAgentFiles: A dataset of coding agent file histories in GitHub repositories**
+Guillaume Cardoen, Tom Mens, Alexandre Decan
+in 42nd IEEE International Conference on Software Maintenance and Evolution (ICSME), Benevento, Italy, 2026
+[Download](files/ICSME-2026b.pdf)
+
+2026 - **GHARuns: A large dataset of GitHub Actions workflow execution metadata**
+Aref Talebzadeh Bardsiri, Tom Mens, Alexandre Decan
+in 42nd IEEE International Conference on Software Maintenance and Evolution (ICSME), Benevento, Italy, 2026
+[Download](files/ICSME-2026c.pdf)
+
 2026 - **An Empirical Analysis of Code Clones in GitHub Actions Workflows**
 Guillaume Cardoen, Tom Mens, Alexandre Decan
 in 33rd International Conference on Software Analysis, Evolution and Reengineering (SANER), Limassol, Cyprus, 2026
@@ -181,12 +196,12 @@ in 38th IEEE International Conference on Software Maintenance and Evolution (ICS
 
 2022 - **On the accuracy of bot detection techniques**
 Mehdi Golzadeh, Alexandre Decan, Natarajan Chidambaram
-in 4th Workshop on Bots in Software Engineering (BotSE), IEEE/ACM ICSEW 2022
+in 4th Workshop on Bots in Software Engineering (BotSE), IEEE/ACM ICSEW 2022, Pittsburgh, USA, 2022
 [Download](files/BOTSE-2022b.pdf)
 
 2022 - **Leveraging Predictions From Multiple Repositories to Improve Bot Detection**
 Natarajan Chidambaram, Alexandre Decan, Mehdi Golzadeh
-in 4th Workshop on Bots in Software Engineering (BotSE), IEEE/ACM ICSEW 2022
+in 4th Workshop on Bots in Software Engineering (BotSE), IEEE/ACM ICSEW 2022, Pittsburgh, USA, 2022
 [Download](files/BOTSE-2022a.pdf)
 
 2022 - **On the rise and fall of CI services in GitHub**
@@ -201,12 +216,12 @@ in 29th IEEE International Conference on Software Analysis, Evolution and Reengi
 
 2021 - **Identifying bot activity in GitHub pull request and issue comments**
 Mehdi Golzadeh, Alexandre Decan, Eleni Constantinou, Tom Mens
-in 3rd Workshop on Bots in Software Engineering (BotSE), IEEE/ACM ICSEW 2021
+in 3rd Workshop on Bots in Software Engineering (BotSE), IEEE/ACM ICSEW 2021, Madrid, Spain (Virtual), 2021
 [Download](files/BOTSE-2021.pdf)
 
 2021 - **A Quantitative Assessment of Package Freshness in Linux Distributions**
 Damien Legay, Alexandre Decan, Tom Mens
-in 4th International Workshop on Software Health (SoHeal), IEEE/ACM ICSEW 2021
+in 4th International Workshop on Software Health (SoHeal), IEEE/ACM ICSEW 2021, Madrid, Spain (Virtual), 2021
 [Download](files/SOHEAL-2021.pdf)
 
 2020 - **How Magic is Zero? An Empirical Analysis of Initial Development Releases in Three Software Package Distributions**
@@ -398,22 +413,28 @@ Fabian Pijcke, 8 February 2018, University of Mons, Belgium
 
 ### Conference organisation
 
+**BENEVOL 2026**
+*Program Committee Chair*
+25th Belgium-Netherlands Software Evolution Workshop
+26-27 November 2026, Madrid, Spain
+[https://benevol.github.io/2026/](https://benevol.github.io/2026/)
+
 **BENEVOL 2022**
 21st Belgium-Netherlands Software Evolution Workshop
-12-13 septembre 2022, Mons, Belgium
+12-13 September 2022, Mons, Belgium
 [https://benevol2022.github.io](https://benevol2022.github.io)
 
 **TIME 2017**
 24th International Symposium on Temporal Representation and Reasoning
-16-18 octobre 2017, Mons, Belgium
+16-18 October 2017, Mons, Belgium
 [http://informatique.umons.ac.be/time2017](http://informatique.umons.ac.be/time2017)
 
 **EuroDocInfo 2009**
-22-23 Janvier 2009, Mons, Belgium
+22-23 January 2009, Mons, Belgium
 [http://eurodocinfo09.umh.ac.be](http://eurodocinfo09.umh.ac.be)
 
 **BDA 2009**
 25èmes journées de Bases de Données Avancées
-20-23 octobre 2009, Namur, Belgium
+20-23 October 2009, Namur, Belgium
 [https://info.fundp.ac.be/bda2009](https://info.fundp.ac.be/bda2009)
 
